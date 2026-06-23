@@ -1,5 +1,65 @@
 # Patisseria: Order iOS Mobile Application Prototype for ABC Bakery
 
+## Screenshots
+<h3>Onboarding page for all users</h3>
+<img width="668" alt="Screen Shot 2023-09-12 at 7 20 01 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/53a46cc9-1980-400a-9ed5-dd7148eaa70a">
+
+<h3>Login page</h3>
+<img width="677" alt="Screen Shot 2023-09-12 at 7 20 45 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/5df88c7d-a372-492d-8728-16e9d370c8b8">
+
+<h3>Register page with validations shown</h3>
+<img width="538" alt="Screen Shot 2023-09-12 at 7 21 46 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/15d8b0b3-1378-48a5-a85c-3b3b5d264d11">
+
+
+<h2>Admin module</h2>
+<h3>Admin Home page</h3>
+<img width="680" alt="Screen Shot 2023-09-12 at 7 22 27 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/98f8a1c9-ebcf-42ba-bb34-eeb875847be6">
+
+<h3>Create, update, and delete products</h3>
+<img width="887" alt="Screen Shot 2023-09-12 at 7 22 41 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/13d6993e-6b6e-43e5-9953-5a5462caec7a">
+
+<h2>Regular user module</h2>
+<h3>Home Page</h3>
+<p>With search functionality</p>
+<img width="792" alt="Screen Shot 2023-09-12 at 7 24 07 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/aaed4313-87f0-4fcb-9ad5-7815945fb06f">
+
+<p></br>New, Popular, and Gluten-free bread filters</p>
+<img width="743" alt="Screen Shot 2023-09-12 at 7 24 22 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/9b93a020-3e16-423b-9871-c6aaaa90ed0c">
+
+<h3>Wish list</h3>
+<img width="719" alt="Screen Shot 2023-09-12 at 7 17 13 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/660c9008-7cc6-4521-ace9-6a5b01be0006">
+
+<h3>Add to Cart</h3>
+<img width="494" alt="Screen Shot 2023-09-12 at 7 27 43 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/d98016ea-3fdc-4ec2-ab83-97ed04926f26">
+
+<br><br>
+> [!NOTE]
+> both regular and visually impaired modules will have the same paypal payment.
+
+<h3>Checkout</h3>
+<img width="398" alt="Screen Shot 2023-09-12 at 7 28 56 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/689e098b-4ca4-4ad2-ae70-90acfe77637c">
+
+<h3>Paypal payment</h3>
+<img width="618" alt="Screen Shot 2023-09-12 at 7 29 19 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/6cbd48bd-9764-4051-9b24-fd9b0d8e15a3"><img width="722" alt="Screen Shot 2023-09-12 at 7 29 31 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/0beeb489-4724-4d17-ae45-6d1d7814559a">
+
+<h3>Profile</h3>
+<img width="228" alt="Screen Shot 2023-09-12 at 7 29 44 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/8f05f94e-ef37-4fbd-9e4a-0d782bf572d1">
+
+<h2>Visually impaired user module</h2>
+<h3>Home Page</h3>
+<img width="459" alt="Screen Shot 2023-09-12 at 7 32 30 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/2871c292-5c90-4c4f-910c-c2465ef3c5f7">
+
+<h3>Wish list</h3>
+<img width="993" alt="Screen Shot 2023-09-12 at 7 32 48 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/8ea007af-8cde-4981-a8a6-fbac075dca1b">
+
+<h3>Add to Cart</h3>
+<img width="495" alt="Screen Shot 2023-09-12 at 7 33 12 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/bcbad78a-fa16-4916-9c26-98f5cd43bd33">
+
+<h3>Profile</h3>
+<img width="233" alt="Screen Shot 2023-09-12 at 7 33 36 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/06c1a9ff-65ab-4318-9dcc-a885e70af37a">
+
+## Patisseria: Order iOS Mobile Application Prototype for ABC Bakery
+
 <p align="justify">
 ABC Bakery, based on a real bakery shop located at Ormiston Mall, Auckland, New Zealand, is one of Auckland’s premier bakery providers. They specialise in region-specific curated bakery products and have a strong presence in the local Asian community.  Customers can order products physically at the shop or in WeChat. However, the current online ordering process is confusing and inefficient, as it directs customers through multiple pages between their website, WeChat, and another external site. The project will be developed using ​the <b>scrum methodology​</b>. 
 
@@ -97,65 +157,6 @@ To explore this project, follow these simple steps:
     <td>pT#UM7u]</td>
   </tr>
 </table>
-
-## Screenshots
-<h3>Onboarding page for all users</h3>
-<img width="668" alt="Screen Shot 2023-09-12 at 7 20 01 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/53a46cc9-1980-400a-9ed5-dd7148eaa70a">
-
-<h3>Login page</h3>
-<img width="677" alt="Screen Shot 2023-09-12 at 7 20 45 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/5df88c7d-a372-492d-8728-16e9d370c8b8">
-
-<h3>Register page with validations shown</h3>
-<img width="538" alt="Screen Shot 2023-09-12 at 7 21 46 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/15d8b0b3-1378-48a5-a85c-3b3b5d264d11">
-
-
-<h2>Admin module</h2>
-<h3>Admin Home page</h3>
-<img width="680" alt="Screen Shot 2023-09-12 at 7 22 27 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/98f8a1c9-ebcf-42ba-bb34-eeb875847be6">
-
-<h3>Create, update, and delete products</h3>
-<img width="887" alt="Screen Shot 2023-09-12 at 7 22 41 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/13d6993e-6b6e-43e5-9953-5a5462caec7a">
-
-<h2>Regular user module</h2>
-<h3>Home Page</h3>
-<p>With search functionality</p>
-<img width="792" alt="Screen Shot 2023-09-12 at 7 24 07 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/aaed4313-87f0-4fcb-9ad5-7815945fb06f">
-
-<p></br>New, Popular, and Gluten-free bread filters</p>
-<img width="743" alt="Screen Shot 2023-09-12 at 7 24 22 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/9b93a020-3e16-423b-9871-c6aaaa90ed0c">
-
-<h3>Wish list</h3>
-<img width="719" alt="Screen Shot 2023-09-12 at 7 17 13 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/660c9008-7cc6-4521-ace9-6a5b01be0006">
-
-<h3>Add to Cart</h3>
-<img width="494" alt="Screen Shot 2023-09-12 at 7 27 43 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/d98016ea-3fdc-4ec2-ab83-97ed04926f26">
-
-<br><br>
-> [!NOTE]
-> both regular and visually impaired modules will have the same paypal payment.
-
-<h3>Checkout</h3>
-<img width="398" alt="Screen Shot 2023-09-12 at 7 28 56 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/689e098b-4ca4-4ad2-ae70-90acfe77637c">
-
-<h3>Paypal payment</h3>
-<img width="618" alt="Screen Shot 2023-09-12 at 7 29 19 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/6cbd48bd-9764-4051-9b24-fd9b0d8e15a3"><img width="722" alt="Screen Shot 2023-09-12 at 7 29 31 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/0beeb489-4724-4d17-ae45-6d1d7814559a">
-
-<h3>Profile</h3>
-<img width="228" alt="Screen Shot 2023-09-12 at 7 29 44 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/8f05f94e-ef37-4fbd-9e4a-0d782bf572d1">
-
-<h2>Visually impaired user module</h2>
-<h3>Home Page</h3>
-<img width="459" alt="Screen Shot 2023-09-12 at 7 32 30 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/2871c292-5c90-4c4f-910c-c2465ef3c5f7">
-
-<h3>Wish list</h3>
-<img width="993" alt="Screen Shot 2023-09-12 at 7 32 48 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/8ea007af-8cde-4981-a8a6-fbac075dca1b">
-
-<h3>Add to Cart</h3>
-<img width="495" alt="Screen Shot 2023-09-12 at 7 33 12 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/bcbad78a-fa16-4916-9c26-98f5cd43bd33">
-
-<h3>Profile</h3>
-<img width="233" alt="Screen Shot 2023-09-12 at 7 33 36 PM" src="https://github.com/alessonJuley/Patisseria/assets/92022487/06c1a9ff-65ab-4318-9dcc-a885e70af37a">
-
 
 <h1>Authors</h1>
 <h3>Alesson Abao</h3>
